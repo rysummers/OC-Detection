@@ -1,16 +1,17 @@
-# OC-Detection
+# Orbital Cellulitis Detection
 
-## Welcome to my GitHub repository on Using Predictive Analytics model to diagnose breast cancer.
+## Welcome to my GitHub repository on Using a Convultional Neural Network (CNN) model to detect Orbital Cellulitis.
 ---
 
 ### Objective:
-The repository is a learning exercise to:
-* Apply the fundamental concepts of machine learning from an available dataset
-* Evaluate and interpret my results and justify my interpretation based on observed data set
+* Apply the fundamental concepts of convolutional neural networks in identifying abscesses in the orbit
+* Evaluate and interpret my results and justify my interpretation based on image set
 * Create notebooks that serve as computational records and document my thought process. 
 
-The analysis is divided into four sections, saved in juypter notebooks in this repository
-1. Identifying the problem  and Data Sources
-2. Exploratory Data Analysis
-3. Pre-Processing the Data
-4. Build model to predict whether breast cell tissue is  malignant or Benign
+The analysis is divided into five sections, saved in juypter notebooks in this repository
+1. Project Overview and Objectives
+2. Import Libraries and Confirm GPU
+3. Data Import and Preprocessing
+4. CNN Model
+5. Conclusions
+6. References
