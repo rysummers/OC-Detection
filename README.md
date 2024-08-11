@@ -1,6 +1,6 @@
 # Orbital Cellulitis Detection
 
-## Welcome to my GitHub repository on Using a Convultional Neural Network (CNN) model to detect Orbital Cellulitis.
+## Welcome to my GitHub repository on using a Convultional Neural Network (CNN) model to detect Orbital Cellulitis.
 ---
 
 ### Objective:
